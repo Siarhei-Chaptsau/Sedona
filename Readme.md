@@ -1,4 +1,4 @@
-# Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Седона»
 
 Студент: [Siarhei Chaptsau](https://assets.htmlacademy.ru/certificates/intensive/35/245963.pdf).
 
